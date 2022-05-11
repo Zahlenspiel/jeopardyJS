@@ -1,0 +1,131 @@
+{
+    "1": {
+        "Name": "Raumfahrt",
+        "Fragen": {
+            "100": {
+                "Antwort": "384.400km",
+                "Frage": "Wie weit ist die Erde vom Mond entfernt?"
+            },
+            "200": {
+                "Antwort": "Buzz Aldrin",
+                "Frage": "Wer war mit Niel Armstrong auf dem Mond?"
+            },
+            "300": {
+                "Antwort": "Laika",
+                "Frage": "Wie hieß der Hund, den die Russen 1957 ins All schossen?"
+            },
+            "400": {
+                "Antwort": "08. September 1966",
+                "Frage": "Wann war die Premiere von Star Trek?"
+            },
+            "500": {
+                "Antwort": "9,461x10^12",
+                "Frage": "Wie lang ist ein Lichtjahr in km?"
+            } 
+        }
+    },
+
+    "2": {
+        "Name": "Fußball",
+        "Fragen": {
+            "100": {
+                "Antwort": "AntwortFußball100",
+                "Frage": "FrageFußball100"
+            },
+            "200": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "300": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "400": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "500": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            } 
+        }
+    },
+
+    "3": {
+        "Name": "Porno",
+        "Fragen": {
+            "100": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "200": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "300": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "400": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "500": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            } 
+        }
+    },
+
+    "4": {
+        "Name": "Geheime Lieben",
+        "Fragen": {
+            "100": {
+                "Antwort": "Daddy King",
+                "Frage": "Wie nennt Lena Marc im Bett"
+            },
+            "200": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "300": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "400": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "500": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            } 
+        }
+    },
+
+    "5": {
+        "Name": "Popkultur",
+        "Fragen": {
+            "100": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "200": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "300": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "400": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            },
+            "500": {
+                "Antwort": "Antwortssatz",
+                "Frage": "Antwortsfrage"
+            } 
+        }
+    }
+}
